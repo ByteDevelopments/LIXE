@@ -22,8 +22,8 @@ const { attachShardLogger, attachLavalinkLogger } = require('./utils/logger');
 const LAVALINK_NODES = [
   {
     name:   'main',
-    url:    'ultra.visionhost.cloud:2037',
-    auth:   'Devine',
+    url:    '89.106.84.59:4000',
+    auth:   'heavencloud.in',
     secure: false
   }
 ];
