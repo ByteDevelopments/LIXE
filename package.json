@@ -1,0 +1,26 @@
+{
+  "name": "music-bot",
+  "version": "2.0.0",
+  "description": "Discord Music Bot with Lavalink — full platform support",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "better-sqlite3": "^12.9.0",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.16.0",
+    "kazagumo": "^3.2.0",
+    "kazagumo-spotify": "^1.0.4",
+    "kazagumo-apple": "^1.0.2",
+    "os-utils": "^0.0.14",
+    "pidusage": "^3.0.2",
+    "shoukaku": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
