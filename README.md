@@ -355,4 +355,64 @@ Please follow the existing code style and keep all bot tokens out of commits.
 
 <sub>© 2026 ByteDevelopments · Released under the MIT License</sub>
 
+# 💖 DONATE FOR SUPPORT
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="120" alt="Donate">
+</p>
+
+<p align="center">
+  Support this project by donating using any of the wallets below 🚀
+</p>
+
+---
+
+## 💸 Payment Methods
+
+### 🏦 UPI
+<p align="left">
+  <img src="https://img.icons8.com/color/96/bhim.png" width="40"/>
+</p>
+
+text
+Pawan-ok@fam
+
+
+---
+
+🪙 Litecoin (LTC)
+
+<p align="left">
+  <img src="https://cryptologos.cc/logos/litecoin-ltc-logo.png?v=032" width="40"/>
+</p>LgKc1NhBS6J7J8Eh8YQkLpcz2rMasWnbD3
+
+
+---
+
+₿ Bitcoin (BTC)
+
+<p align="left">
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=032" width="40"/>
+</p>bc1qqu95jhnd27awgaygn4pjlr4vqrxawsph9npyn4
+
+
+---
+
+☀️ Solana (SOL)
+
+<p align="left">
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=032" width="40"/>
+</p>8S4q4L142kkvZAxokXBUxFqXzFrZWq2NTd69xVsJZ2RJ
+
+
+---
+
+🌟 Thank You For Your Support
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEdva9BUHPIs2SkGk/giphy.gif" width="250"/>
+</p><p align="center">
+  Your support helps keep this project alive ❤️
+</p>
+
 </div>
